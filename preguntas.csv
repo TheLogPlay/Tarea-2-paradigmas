@@ -1,0 +1,36 @@
+multiple,Recordar,Â¿CuÃ¡l es el sustantivo en la oraciÃ³n 'El perro corre rÃ¡pido'?,corre,rÃ¡pido,El,perro,D,30
+multiple,Entender,Â¿QuÃ© indica un adjetivo calificativo?,Tiempo,Lugar,Cualidad del sustantivo,AcciÃ³n,C,45
+multiple,Aplicar,Selecciona la oraciÃ³n correctamente escrita.,yo fui al parque,Yo fue al parque,Yo fui al parque.,yo fuÃ­ al parque.,C,40
+multiple,Analizar,¿Cuál oración contiene una comparación?,Pedro come manzanas,Juan tiene frío,Como un león, ella ruge.,El auto está limpio,C,50
+multiple,Evaluar,Â¿QuÃ© oraciÃ³n estÃ¡ mejor redactada?,El niÃ±o juega en el patio.,El niÃ±o estÃ¡ juega en el patio,NiÃ±o juega,El juega,A,60
+multiple,Crear,Inventa una palabra compuesta vÃ¡lida.,casaauto,florpez,solmar,camasilla,C,90
+vf,Recordar,Un verbo indica una acciÃ³n.,verdadero,falso,,,verdadero,20
+vf,Entender,Los adverbios solo modifican sustantivos.,verdadero,falso,,,falso,30
+vf,Aplicar,La palabra 'rÃ¡pidamente' es un ejemplo de adjetivo.,verdadero,falso,,,falso,30
+vf,Analizar,'MarÃ­a canta bien' contiene sujeto y predicado.,verdadero,falso,,,verdadero,25
+vf,Evaluar,'El libro es interesante' tiene un juicio de valor.,verdadero,falso,,,verdadero,35
+vf,Crear,Inventar una historia es parte del nivel de creaciÃ³n.,verdadero,falso,,,verdadero,60
+multiple,Recordar,¿Cuánto es 7 + 5?,10,11,12,13,C,30
+multiple,Recordar,¿Cuál es el valor de pi (aproximado)?,3.14,2.71,1.61,1.41,A,30
+multiple,Entender,¿Qué representa el denominador en una fracción?,La parte total,La parte dividida,La unidad,El número menor,A,35
+multiple,Entender,¿Qué indica el área de un rectángulo?,La suma de lados,El perímetro,La región cubierta,La distancia total,C,35
+multiple,Aplicar,Resuelve: Si x = 3, ¿cuánto es 2x + 1?,5,6,7,8,C,40
+multiple,Aplicar,Calcula el área de un cuadrado de lado 4.,12,8,16,4,C,40
+multiple,Analizar,¿Cuál de las siguientes expresiones es equivalente a 3(x + 2)?,3x + 2,x + 6,3x + 6,x * 2 + 3,C,45
+multiple,Analizar,¿Cuál número no pertenece al conjunto: 2, 4, 6, 9?,2,4,6,9,D,45
+multiple,Evaluar,¿Cuál es la mejor estrategia para resolver 48 × 25 mentalmente?,Dividir 25 en 5 y 5,Usar 50 y restar,Multiplicar en columna,No se puede,B,50
+multiple,Evaluar,¿Qué método es más eficiente para calcular 10% de 250?,Dividir por 2,Multiplicar por 10,Dividir entre 10,Sumar 10 veces,C,50
+multiple,Crear,Elige una expresión matemática válida que dé como resultado 10.,5+5,20-5,2×6,3+8,A,60
+multiple,Crear,Crea una expresión que tenga como resultado 15 y use al menos dos operaciones.,5+10,20-5,3×5,10+5×1,D,60
+vf,Recordar,5 × 0 es igual a 0.,verdadero,falso,,,verdadero,25
+vf,Recordar,El número 2 es impar.,verdadero,falso,,,falso,25
+vf,Entender,Una fracción representa una parte del todo.,verdadero,falso,,,verdadero,30
+vf,Entender,El perímetro mide el área interna de una figura.,verdadero,falso,,,falso,30
+vf,Aplicar,Si un auto recorre 60 km en 2 horas, su velocidad promedio es 30 km/h.,verdadero,falso,,,verdadero,30
+vf,Aplicar,Si duplicas ambos lados de un cuadrado, su área también se duplica.,verdadero,falso,,,falso,30
+vf,Analizar,La expresión 2(x + 3) = 2x + 6 es correcta.,verdadero,falso,,,verdadero,35
+vf,Analizar,En 3x - 5 = 10, x = 1.,verdadero,falso,,,falso,35
+vf,Evaluar,Redondear 248 a la centena más cercana da 200.,verdadero,falso,,,falso,40
+vf,Evaluar,Multiplicar por 0.5 es lo mismo que dividir por 2.,verdadero,falso,,,verdadero,40
+vf,Crear,Diseñar un problema que use porcentaje implica creación.,verdadero,falso,,,verdadero,45
+vf,Crear,Sumar dos números es un proceso creativo.,verdadero,falso,,,falso,45
